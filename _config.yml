@@ -1,7 +1,7 @@
 name: ISVILA
 favicon: null
-layout_spectrum: 0.24662
-typography_spectrum: 0.49613
+layout_spectrum: 0.06466656201519072
+typography_spectrum: 0.7510787656065077
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.7758984819520265
+  lightness: 0.578421205515042
+  saturation: 0.034423754550516605
+  rhythmicContrast: 0.5456539334263653
 purpose: []
