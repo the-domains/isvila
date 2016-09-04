@@ -1,28 +1,40 @@
-name: ISVILA
-favicon: null
-layout_spectrum: 0.06466656201519072
-typography_spectrum: 0.7510787656065077
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7758984819520265
-  lightness: 0.578421205515042
-  saturation: 0.034423754550516605
-  rhythmicContrast: 0.5456539334263653
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: ISVILA
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4265233
+layout_spectrum: 0.8297491
